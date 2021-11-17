@@ -5,7 +5,7 @@
 
   <h1> Binary Search</h1>
 
-[BinarySearch Program](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/1%5D.%20DSA/2%5D.%20Algorithms/01%5D.%20Searching%20Algorithms/Java/BinarSearch.java)
+[BinarySearch Program]()
 
 - Binary Search is a faster-search algorithm and efficient for searching in a `sorted array`. Thats's `Binary search works on ordered lits only!`.
 - The Algorithm works by comparing a search key `K` with the array's middle element `A[mid]`. (i.e., if `K==A[mid]`).
