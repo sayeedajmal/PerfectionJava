@@ -14,7 +14,7 @@ public class AllSearching {
     }
 
     /* BREADHTFIRST SEARCH */
-    public static int BreadthFirstSearch() {
+    public static int BreadthFirstSearch() { 
         return 0;
     }
 
